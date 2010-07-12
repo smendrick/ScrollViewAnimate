@@ -1,0 +1,190 @@
+// !$*UTF8*$!
+{
+	0C3F2FE011EAEC2B004497A4 /* ScrollViewAnimate */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ScrollViewAnimate;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0C3F313711EAEC39004497A4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0C3F313811EAEC39004497A4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0C3F313A11EAEC45004497A4 /* ScrollViewAnimateViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {719, 2587}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 386}";
+		};
+	};
+	0C3F314911EAECCF004497A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ScrollViewAnimateAppDelegate.m */;
+		name = "ScrollViewAnimateAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 195;
+		rType = 0;
+		vrLen = 247;
+		vrLoc = 0;
+	};
+	0C3F314A11EAECCF004497A4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected specifier-qualifier-list before 'ScrollViewAnimate2ViewController'";
+		fRef = 1D3623240D0F684500981E51 /* ScrollViewAnimateAppDelegate.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 16;
+		rType = 1;
+	};
+	0C3F314B11EAECCF004497A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ScrollViewAnimateAppDelegate.h */;
+		name = "ScrollViewAnimateAppDelegate.h: 17";
+		rLen = 0;
+		rLoc = 399;
+		rType = 0;
+		vrLen = 375;
+		vrLoc = 63;
+	};
+	0C3F314F11EAECD2004497A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ScrollViewAnimateAppDelegate.h */;
+		name = "ScrollViewAnimateAppDelegate.h: 2";
+		rLen = 0;
+		rLoc = 24;
+		rType = 0;
+		vrLen = 441;
+		vrLoc = 0;
+	};
+	0C3F315011EAECD2004497A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0C3F313A11EAEC45004497A4 /* ScrollViewAnimateViewController.m */;
+		name = "ScrollViewAnimateViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 386;
+		vrLoc = 0;
+	};
+	0C3F315111EAECD2004497A4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "No declaration of property 'window' found in the interface";
+		fRef = 1D3623250D0F684500981E51 /* ScrollViewAnimateAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 11;
+		rType = 1;
+	};
+	0C3F315211EAECD2004497A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ScrollViewAnimateAppDelegate.m */;
+		name = "ScrollViewAnimateAppDelegate.m: 14";
+		rLen = 0;
+		rLoc = 245;
+		rType = 0;
+		vrLen = 428;
+		vrLoc = 0;
+	};
+	1D3623240D0F684500981E51 /* ScrollViewAnimateAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 273}}";
+			sepNavSelRange = "{399, 0}";
+			sepNavVisRange = "{63, 375}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ScrollViewAnimateAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 403}}";
+			sepNavSelRange = "{245, 0}";
+			sepNavVisRange = "{0, 428}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ScrollViewAnimate */ = {
+		activeExec = 0;
+		executables = (
+			0C3F2FE011EAEC2B004497A4 /* ScrollViewAnimate */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0C3F2FE011EAEC2B004497A4 /* ScrollViewAnimate */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ScrollViewAnimate */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ScrollViewAnimate */,
+		);
+		codeSenseManager = 0C3F313811EAEC39004497A4 /* Code sense */;
+		executables = (
+			0C3F2FE011EAEC2B004497A4 /* ScrollViewAnimate */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					198,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 300608555;
+			PBXWorkspaceStateSaveDate = 300608555;
+		};
+		perUserProjectItems = {
+			0C3F314911EAECCF004497A4 /* PBXTextBookmark */ = 0C3F314911EAECCF004497A4 /* PBXTextBookmark */;
+			0C3F314A11EAECCF004497A4 /* XCBuildMessageTextBookmark */ = 0C3F314A11EAECCF004497A4 /* XCBuildMessageTextBookmark */;
+			0C3F314B11EAECCF004497A4 /* PBXTextBookmark */ = 0C3F314B11EAECCF004497A4 /* PBXTextBookmark */;
+			0C3F314F11EAECD2004497A4 /* PBXTextBookmark */ = 0C3F314F11EAECD2004497A4 /* PBXTextBookmark */;
+			0C3F315011EAECD2004497A4 /* PBXTextBookmark */ = 0C3F315011EAECD2004497A4 /* PBXTextBookmark */;
+			0C3F315111EAECD2004497A4 /* XCBuildMessageTextBookmark */ = 0C3F315111EAECD2004497A4 /* XCBuildMessageTextBookmark */;
+			0C3F315211EAECD2004497A4 /* PBXTextBookmark */ = 0C3F315211EAECD2004497A4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0C3F313711EAEC39004497A4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
